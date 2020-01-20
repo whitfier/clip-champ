@@ -1,0 +1,27 @@
+.loadingContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.preview {
+  max-width: 800px;
+  background: #ffffff;
+  display: flex;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 40px;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.1);
+}
+
+.previewDetails {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.progressBar {
+  max-width: 800px;
+}

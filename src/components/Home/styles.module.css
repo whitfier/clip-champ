@@ -1,0 +1,22 @@
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  max-width: 1000px;
+  margin: 100px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
