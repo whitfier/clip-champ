@@ -7,7 +7,7 @@ import "./index.css";
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/vod/:id">
           <Vod />
