@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab7880d580edbcd4e6526452851c3418",
+    "revision": "ba7ac5174f2d5a9574b1ff2eb67f04f2",
     "url": "/clip-champ/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clip-champ/static/css/2.4ddf7b73.chunk.css"
   },
   {
-    "revision": "b5d2a7066ddbfb2af68f",
+    "revision": "950d97be5a9e9d9bca82",
     "url": "/clip-champ/static/css/main.7959b2ad.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clip-champ/static/js/2.f530892a.chunk.js.LICENSE"
   },
   {
-    "revision": "b5d2a7066ddbfb2af68f",
-    "url": "/clip-champ/static/js/main.ed3d3023.chunk.js"
+    "revision": "950d97be5a9e9d9bca82",
+    "url": "/clip-champ/static/js/main.34c34f78.chunk.js"
   },
   {
     "revision": "1a762dbd37568b273bed",

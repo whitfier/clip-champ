@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clip-champ/static/css/main.7959b2ad.chunk.css",
-    "main.js": "/clip-champ/static/js/main.ed3d3023.chunk.js",
-    "main.js.map": "/clip-champ/static/js/main.ed3d3023.chunk.js.map",
+    "main.js": "/clip-champ/static/js/main.34c34f78.chunk.js",
+    "main.js.map": "/clip-champ/static/js/main.34c34f78.chunk.js.map",
     "runtime-main.js": "/clip-champ/static/js/runtime-main.164f91dd.js",
     "runtime-main.js.map": "/clip-champ/static/js/runtime-main.164f91dd.js.map",
     "static/css/2.4ddf7b73.chunk.css": "/clip-champ/static/css/2.4ddf7b73.chunk.css",
     "static/js/2.f530892a.chunk.js": "/clip-champ/static/js/2.f530892a.chunk.js",
     "static/js/2.f530892a.chunk.js.map": "/clip-champ/static/js/2.f530892a.chunk.js.map",
     "index.html": "/clip-champ/index.html",
-    "precache-manifest.61cb8cc0f5732633d7dd22a3c765f9de.js": "/clip-champ/precache-manifest.61cb8cc0f5732633d7dd22a3c765f9de.js",
+    "precache-manifest.a74a662122ecf5ce26c8b00968f9b53d.js": "/clip-champ/precache-manifest.a74a662122ecf5ce26c8b00968f9b53d.js",
     "service-worker.js": "/clip-champ/service-worker.js",
     "static/css/2.4ddf7b73.chunk.css.map": "/clip-champ/static/css/2.4ddf7b73.chunk.css.map",
     "static/css/main.7959b2ad.chunk.css.map": "/clip-champ/static/css/main.7959b2ad.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4ddf7b73.chunk.css",
     "static/js/2.f530892a.chunk.js",
     "static/css/main.7959b2ad.chunk.css",
-    "static/js/main.ed3d3023.chunk.js"
+    "static/js/main.34c34f78.chunk.js"
   ]
 }
