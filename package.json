@@ -1,11 +1,13 @@
 {
   "name": "clipchamp",
   "version": "0.1.0",
-  "homepage": "http://whitfier.github.io/clip-champ",
+  "homepage": "https://whitfier.github.io/clip-champ",
   "private": true,
   "dependencies": {
     "antd": "^3.26.7",
     "axios": "^0.19.1",
+    "date-fns": "^2.9.0",
+    "lodash": "^4.17.15",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2"
